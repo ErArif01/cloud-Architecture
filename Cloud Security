@@ -1,0 +1,16 @@
+Cloud security refers to the set of policies, technologies, and controls deployed to protect data, appliations, and infrastructure in cloud computing enviroments. 
+
+## Data Encryption:
+  # In Transit Encryption: Encrypt data as it travels between the user and the cloud service provider.
+  # At-Rest Encryption: protects data stored in the cloud by encrypting it when it's not in use.
+
+## Network Security: use firewalls to protect the cloud infrstructure and control incoming and outgoing traffic.
+                      Develop an incident response plan to address security breaches promptly.
+
+## API Security: Securty Training and Awareness:
+   Educate users and administrators about security best practice and potential threats.
+
+# Vendor Security:
+   Assesss the security practices of your cloud service providers and ensure they meet your organization;s standrds.
+
+ Security in the cloud is a shared responsibility between the cloud servic provider and the costomer.
